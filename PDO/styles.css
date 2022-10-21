@@ -1,0 +1,31 @@
+.head-container { 
+    height: 100%;
+    display: flex;
+    margin-top: 250px;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.picture-container { 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+    
+
+.container { 
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container li { 
+    list-style: none;
+    padding: 1rem 0;
+}
+
